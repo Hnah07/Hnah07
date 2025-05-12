@@ -1,5 +1,5 @@
 # Hey, I'm Hannah 🤘
-🚀 **Full Stack Developer** in training<br>💥 **Currently working on:** A group project - [Poke Market](https://github.com/Poke-market)<br> 👩🏻‍💻 **Interests:** Web development, UI/UX, and building user-friendly applications<br><br>**Outside of coding, you’ll find me:**<br>🏓 Playing table tennis<br>🍻 Exploring craft beers<br>🎮 Gaming (mainly Nintendo)<br>📸 Capturing moments with photography
+🚀 **Full Stack Developer** in training<br>💥 **Currently working on:** Final Course Project - [Resonance](https://github.com/users/Hnah07/projects/6)<br> 👩🏻‍💻 **Interests:** Web development, UI/UX, and building user-friendly applications<br><br>**Outside of coding, you’ll find me:**<br>🏓 Playing table tennis<br>🍻 Exploring craft beers<br>🎮 Gaming (mainly Nintendo)<br>📸 Capturing moments with photography
 
 
 ## 🌐 Socials:
